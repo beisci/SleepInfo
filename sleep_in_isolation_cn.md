@@ -27,5 +27,5 @@ _这篇文章是为那些在室内隔离的人写的。如果您是在一线奋�
 	- _**在日间避免睡午觉**。_ 如果您有大把机会睡觉，但是在夜间睡得不好，请在白天避免睡午觉，这样可以帮助您在夜间好眠。
 
 
-_原文作者：澳大利亚莫纳什大学睡眠和生物钟和临床心理专家 Bei Bei, Shantha Rajaratnam, Sean Drummond 博士._  
+_原文作者：澳大利亚莫纳什大学睡眠, 生物钟, 和临床心理专家 Bei Bei, Shantha Rajaratnam, Sean Drummond 博士._  
 _翻译：Phoebe Chen，Magnus Communications._
