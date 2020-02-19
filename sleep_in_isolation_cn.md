@@ -29,4 +29,4 @@ _Please see [English version here](https://github.com/beisci/SleepInfo/blob/mast
 
 
 _原文作者：澳大利亚莫纳什大学睡眠, 生物钟, 和临床心理专家 Bei Bei, Shantha Rajaratnam, Sean Drummond 博士._  
-_翻译：Phoebe Chen，Magnus Communications._  
+_翻译：Phoebe Chen from Magnus Communications LLC._  
