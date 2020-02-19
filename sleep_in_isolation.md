@@ -1,6 +1,7 @@
 # Sleeping tips when staying indoors during isolation period
 
-_This information is written for people who have to self-isolate and stay indoors for an extended period of time. If you are sleep deprived because of lack of opportunity to sleep (e.g., frontline health professionals, support workers, carers), please prioritize sleep and rest as much as you are able to._
+_This information is written for people who have to self-isolate and stay indoors for an extended period of time. If you are sleep deprived because of lack of opportunity to sleep (e.g., frontline health professionals, support workers, carers), please prioritize sleep and rest as much as you are able to._  
+_中文版[请点击这里](https://github.com/beisci/SleepInfo/blob/master/sleep_in_isolation_cn.md)._  
 
 ## Part 1: Support our body clock and daily rhythms
 Sleep is controlled by biological, social, and environmental time-keepers. These include the amount of light we are exposed to, time-of-the-day when we eat our meals, exercise, interact with others, and many more. When we stay indoors for a long period of time, we lose many of these cues. This can be challenging for a good night’s sleep and regular daily routines. 
