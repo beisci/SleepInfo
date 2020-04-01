@@ -1,7 +1,9 @@
 # Sleeping tips when staying indoors during isolation period
 
-_This information is written for people who have to stay indoors for an extended period of time. If you are sleep deprived because of lack of opportunity to sleep (e.g., frontline health professionals, support workers, carers), please prioritize sleep and rest as much as you are able to._
-_[中文版](https://github.com/beisci/SleepInfo/blob/master/sleep_in_isolation_cn.md)._
+_This information is written for people who have to stay indoors for an extended period of time. If you are sleep deprived because of lack of opportunity to sleep (e.g., frontline health professionals, support workers, carers), please prioritize sleep and rest as much as you are able to._ 
+
+_[中文版](https://github.com/beisci/SleepInfo/blob/master/sleep_in_isolation_cn.md)._ 
+
 _[日本語版](https://github.com/beisci/SleepInfo/blob/master/sleep_in_isolation_jp.md)._ 
 
 ## Part 1: Support our body clock and daily rhythms
