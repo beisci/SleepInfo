@@ -1,7 +1,8 @@
 # 在室内隔离时怎么睡好觉
 
+**| [English version](https://github.com/beisci/SleepInfo/blob/master/sleep_in_isolation.md) | [日本語版](https://github.com/beisci/SleepInfo/blob/master/sleep_in_isolation_jp.md) |**
+
 _这篇文章是为那些在室内隔离的人写的。如果您是在一线奋战的医务人员，或是照看病人的家属，没有太多睡觉的机会，那么最重要的就是要创造睡眠和休息的机会。_  
-| [English version](https://github.com/beisci/SleepInfo/blob/master/sleep_in_isolation.md) | [日本語版](https://github.com/beisci/SleepInfo/blob/master/sleep_in_isolation_jp.md) |
 
 ## 第一：调整生物钟和每日的作息节奏
 睡眠是由生理、社交、环境等诸多“计时器”一起促成的。比如每天眼睛接触到的光线强度跟时长，吃饭、锻炼、和人打交道的时间等等。如果您在室内呆久了，往往会失去好多生理“计时器”，因此睡眠起居规律会被打破。

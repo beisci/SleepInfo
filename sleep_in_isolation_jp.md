@@ -1,7 +1,8 @@
 # 隔離のため屋内で生活する際に役に立つ睡眠のコツ
 
+**| [中文版](https://github.com/beisci/SleepInfo/blob/master/sleep_in_isolation_cn.md) | [English version](https://github.com/beisci/SleepInfo/blob/master/sleep_in_isolation.md) |** 
+
 _この情報は、長期間にわたり屋内に留まる必要がある人々のために書かれたものです。寝られる状況になく睡眠不足になっている方々（医療従事者、その補助業務にあたる人、看病をしている人など）は、どうかできる範囲でよいので睡眠や休養を優先してとるようにしてください。_  
-| [中文版](https://github.com/beisci/SleepInfo/blob/master/sleep_in_isolation_cn.md) | [English version](https://github.com/beisci/SleepInfo/blob/master/sleep_in_isolation.md) | 
 
 ## 第一部：体内時計と日々の生活リズムを一定に保つには
 睡眠をコントロールする要素には、生物学的、社会的、そして環境的な、時間の目安となる事柄があります。これに含まれるのが、日光、食事時間、運動する時間、人と接する時間、その他さまざまな事柄です。長い間、屋内にこもっていると、こうした事柄の多くが失われます。それによって良好な夜間の睡眠や、規則正しい生活が困難になることがあります。そこで紹介したいのが、日常の生活リズムを保つための以下の方法です。
