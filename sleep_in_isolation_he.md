@@ -37,11 +37,11 @@ _המידע המופיע במאמר זה מיועד לאנשים שצריכים 
 
 
  
-‪_‬מאמר זה נכתב במקור באנגלית על ידי דר' Bei Bei, פרופ' ,Shantha Rajaratnam ופרופ' Sean Drummond מ – 
+מאמר זה נכתב במקור באנגלית על ידי דר' Bei Bei, פרופ' ,Shantha Rajaratnam ופרופ' Sean Drummond מ – 
  Monash University Healthy Sleep Clinic, Turner Institute for Brain and Mental Health, Monash University, Australia 
 ועל ידי פרופ'  Rachel Manber מ-
 Sleep Health and Insomnia Program, Stanford University, USA. 
 המאמר תורגם לעברית על ידי פרופ' ליאת טיקוצקי מהמחלקה לפסיכולוגיה באוניברסיטת בן-גוריון בנגב.
-ניתן לשתף מידע זה באופן חופשי, תוך מתן קרדיט לכותבים. ניתן להפנות שאלות והערות ל bei.bei@monash.edu ‪_‬(אנגלית) או ל liatti@bgu.ac.il  (עברית).
+ניתן לשתף מידע זה באופן חופשי, תוך מתן קרדיט לכותבים. ניתן להפנות שאלות והערות ל bei.bei@monash.edu (אנגלית) או ל liatti@bgu.ac.il  (עברית).
 
 
