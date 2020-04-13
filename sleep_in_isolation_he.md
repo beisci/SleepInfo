@@ -1,6 +1,6 @@
 # עצות לשינה טובה במהלך תקופת ההסגר/בידוד
 
-**| [中文版](https://github.com/beisci/SleepInfo/blob/master/sleep_in_isolation_cn.md) | [日本語版](https://github.com/beisci/SleepInfo/blob/master/sleep_in_isolation_jp.md) | [Version française](https://github.com/beisci/SleepInfo/blob/master/sleep_in_isolation_fr.md) | [versión en español](https://github.com/beisci/SleepInfo/blob/master/sleep_in_isolation_sp.md)**
+**| [中文版](https://github.com/beisci/SleepInfo/blob/master/sleep_in_isolation_cn.md) | [日本語版](https://github.com/beisci/SleepInfo/blob/master/sleep_in_isolation_jp.md) | [Version française](https://github.com/beisci/SleepInfo/blob/master/sleep_in_isolation_fr.md) | [versión en español](https://github.com/beisci/SleepInfo/blob/master/sleep_in_isolation_sp.md) |**
 
 _המידע המופיע במאמר זה מיועד לאנשים שצריכים להישאר בביתם למשך תקופה ממושכת. אם אתם חווים חסך שינה משום שחסרות לכם הזדמנויות לישון (למשל, עובדי מערכת הבריאות), אנא תנו עדיפות לשינה ומנוחה עד כמה שניתן._
 
@@ -37,11 +37,11 @@ _המידע המופיע במאמר זה מיועד לאנשים שצריכים 
 
 
  
-מאמר זה נכתב במקור באנגלית על ידי דר' Bei Bei, פרופ' ,Shantha Rajaratnam ופרופ' Sean Drummond מ – 
+‪_‬מאמר זה נכתב במקור באנגלית על ידי דר' Bei Bei, פרופ' ,Shantha Rajaratnam ופרופ' Sean Drummond מ – 
  Monash University Healthy Sleep Clinic, Turner Institute for Brain and Mental Health, Monash University, Australia 
 ועל ידי פרופ'  Rachel Manber מ-
 Sleep Health and Insomnia Program, Stanford University, USA. 
 המאמר תורגם לעברית על ידי פרופ' ליאת טיקוצקי מהמחלקה לפסיכולוגיה באוניברסיטת בן-גוריון בנגב.
-ניתן לשתף מידע זה באופן חופשי, תוך מתן קרדיט לכותבים. ניתן להפנות שאלות והערות ל bei.bei@monash.edu (אנגלית) או ל liatti@bgu.ac.il  (עברית).
+ניתן לשתף מידע זה באופן חופשי, תוך מתן קרדיט לכותבים. ניתן להפנות שאלות והערות ל bei.bei@monash.edu ‪_‬(אנגלית) או ל liatti@bgu.ac.il  (עברית).
 
 
