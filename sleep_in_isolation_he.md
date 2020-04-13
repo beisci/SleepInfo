@@ -1,9 +1,8 @@
-# Sleeping tips when staying indoors during isolation period
+# עצות לשינה טובה במהלך תקופת ההסגר/בידוד
 
-**| [中文版](https://github.com/beisci/SleepInfo/blob/master/sleep_in_isolation_cn.md) | [日本語版](https://github.com/beisci/SleepInfo/blob/master/sleep_in_isolation_jp.md) | [Version française](https://github.com/beisci/SleepInfo/blob/master/sleep_in_isolation_fr.md) |**
+**| [中文版](https://github.com/beisci/SleepInfo/blob/master/sleep_in_isolation_cn.md) | [日本語版](https://github.com/beisci/SleepInfo/blob/master/sleep_in_isolation_jp.md) | [Version française](https://github.com/beisci/SleepInfo/blob/master/sleep_in_isolation_fr.md) | [versión en español](https://github.com/beisci/SleepInfo/blob/master/sleep_in_isolation_sp.md)**
 
 _המידע המופיע במאמר זה מיועד לאנשים שצריכים להישאר בביתם למשך תקופה ממושכת. אם אתם חווים חסך שינה משום שחסרות לכם הזדמנויות לישון (למשל, עובדי מערכת הבריאות), אנא תנו עדיפות לשינה ומנוחה עד כמה שניתן._
-# עצות לשינה טובה במהלך תקופת ההסגר/בידוד
 
 ## תמיכה בשעון הגופני ובמקצבים היומיים שלנו
 שינה נשלטת על ידי רמזים ("שומרי-זמן") ביולוגיים, חברתיים וסביבתיים. רמזים אלה כוללים את כמות האור אליה אנחנו חשופים, השעה שבה אנו אוכלים או עושים פעילות גופנית, נמצאים בקשר עם אחרים, וכדומה. כאשר אנו נמצאים בבית לפרקי זמן ארוכים, רבים מרמזים אלה נחלשים, מה שעלול להקשות על שנת לילה טובה וכתוצאה מכך - על שגרת היום.

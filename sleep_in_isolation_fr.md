@@ -1,6 +1,6 @@
 # Astuces pour un sommeil optimal pendant des périodes d’isolement prolongées en intérieur 
 
-**[English version](https://github.com/beisci/SleepInfo/blob/master/sleep_in_isolation.md) | [中文版](https://github.com/beisci/SleepInfo/blob/master/sleep_in_isolation_cn.md) | [日本語版](https://github.com/beisci/SleepInfo/blob/master/sleep_in_isolation_jp.md) |**
+**[English version](https://github.com/beisci/SleepInfo/blob/master/sleep_in_isolation.md) | [中文版](https://github.com/beisci/SleepInfo/blob/master/sleep_in_isolation_cn.md) | [日本語版](https://github.com/beisci/SleepInfo/blob/master/sleep_in_isolation_jp.md) | [versión en español](https://github.com/beisci/SleepInfo/blob/master/sleep_in_isolation_sp.md) | [גרסה עברית](https://github.com/beisci/SleepInfo/blob/master/sleep_in_isolation_he.md)**
 
 
 _Ces informations ont été écrites pour des personnes qui doivent restées chez elles pour des périodes prolongées. Si vous manquez d’opportunité pour dormir et êtes en manque de sommeil (par exemple les professionnels de la santé en première ligne, assistants, aides soignants etc.), essayez de prioriser votre sommeil et vous reposer le plus possible._

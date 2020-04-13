@@ -1,6 +1,6 @@
 # Sleeping tips when staying indoors during isolation period
 
-**| [中文版](https://github.com/beisci/SleepInfo/blob/master/sleep_in_isolation_cn.md) | [日本語版](https://github.com/beisci/SleepInfo/blob/master/sleep_in_isolation_jp.md) | [Version française](https://github.com/beisci/SleepInfo/blob/master/sleep_in_isolation_fr.md) |**
+**| [中文版](https://github.com/beisci/SleepInfo/blob/master/sleep_in_isolation_cn.md) | [日本語版](https://github.com/beisci/SleepInfo/blob/master/sleep_in_isolation_jp.md) | [Version française](https://github.com/beisci/SleepInfo/blob/master/sleep_in_isolation_fr.md) | [versión en español](https://github.com/beisci/SleepInfo/blob/master/sleep_in_isolation_sp.md) | [גרסה עברית](https://github.com/beisci/SleepInfo/blob/master/sleep_in_isolation_he.md)**
 
 _This information is written for people who have to stay indoors for an extended period of time. If you are sleep deprived because of lack of opportunity to sleep (e.g., frontline health professionals, support workers, carers), please prioritize sleep and rest as much as you are able to._ 
 
