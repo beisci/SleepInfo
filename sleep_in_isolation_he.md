@@ -1,6 +1,6 @@
 # עצות לשינה טובה במהלך תקופת ההסגר/בידוד
 
-**| [中文版](https://github.com/beisci/SleepInfo/blob/master/sleep_in_isolation_cn.md) | [日本語版](https://github.com/beisci/SleepInfo/blob/master/sleep_in_isolation_jp.md) | [Version française](https://github.com/beisci/SleepInfo/blob/master/sleep_in_isolation_fr.md) | [versión en español](https://github.com/beisci/SleepInfo/blob/master/sleep_in_isolation_sp.md) |**
+**| [English version](https://github.com/beisci/SleepInfo/blob/master/sleep_in_isolation.md) | [中文版](https://github.com/beisci/SleepInfo/blob/master/sleep_in_isolation_cn.md) | [日本語版](https://github.com/beisci/SleepInfo/blob/master/sleep_in_isolation_jp.md) | [Version française](https://github.com/beisci/SleepInfo/blob/master/sleep_in_isolation_fr.md) | [versión en español](https://github.com/beisci/SleepInfo/blob/master/sleep_in_isolation_sp.md) |**
 
 _המידע המופיע במאמר זה מיועד לאנשים שצריכים להישאר בביתם למשך תקופה ממושכת. אם אתם חווים חסך שינה משום שחסרות לכם הזדמנויות לישון (למשל, עובדי מערכת הבריאות), אנא תנו עדיפות לשינה ומנוחה עד כמה שניתן._
 
