@@ -1,6 +1,6 @@
 # 在室内隔离时怎么睡好觉
 
-**| [English version](https://github.com/beisci/SleepInfo/blob/master/sleep_in_isolation.md) | [日本語版](https://github.com/beisci/SleepInfo/blob/master/sleep_in_isolation_jp.md) | [Version française](https://github.com/beisci/SleepInfo/blob/master/sleep_in_isolation_fr.md) | [versión en español](https://github.com/beisci/SleepInfo/blob/master/sleep_in_isolation_sp.md) | [גרסה עברית](https://github.com/beisci/SleepInfo/blob/master/sleep_in_isolation_he.md) |**
+**| [English version](https://github.com/beisci/SleepInfo/blob/master/sleep_in_isolation.md) | [日本語版](https://github.com/beisci/SleepInfo/blob/master/sleep_in_isolation_jp.md) | [Version française](https://github.com/beisci/SleepInfo/blob/master/sleep_in_isolation_fr.md) | [versión en español](https://github.com/beisci/SleepInfo/blob/master/sleep_in_isolation_sp.md) | [גרסה עברית](https://github.com/beisci/SleepInfo/raw/master/sleep_in_isolation_he.pdf) |**
 
 _这篇文章是为那些在室内隔离的人写的。如果您是在一线奋战的医务人员，或是照看病人的家属，没有太多睡觉的机会，那么最重要的就是要创造睡眠和休息的机会。_  
 

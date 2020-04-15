@@ -1,6 +1,6 @@
 # עצות לשינה טובה במהלך תקופת ההסגר/בידוד
 
-[הורד כמסמך](https://github.com/beisci/SleepInfo/raw/master/sleep_in_isolation_he.docx)
+[הורד כמסמך](https://github.com/beisci/SleepInfo/raw/master/sleep_in_isolation_he.pdf)
 
 **| [English version](https://github.com/beisci/SleepInfo/blob/master/sleep_in_isolation.md) | [中文版](https://github.com/beisci/SleepInfo/blob/master/sleep_in_isolation_cn.md) | [日本語版](https://github.com/beisci/SleepInfo/blob/master/sleep_in_isolation_jp.md) | [Version française](https://github.com/beisci/SleepInfo/blob/master/sleep_in_isolation_fr.md) | [versión en español](https://github.com/beisci/SleepInfo/blob/master/sleep_in_isolation_sp.md) |**
 

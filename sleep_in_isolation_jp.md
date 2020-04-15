@@ -1,6 +1,6 @@
 # 隔離のため屋内で生活する際に役に立つ睡眠のコツ
 
-**| [中文版](https://github.com/beisci/SleepInfo/blob/master/sleep_in_isolation_cn.md) | [English version](https://github.com/beisci/SleepInfo/blob/master/sleep_in_isolation.md) | [Version française](https://github.com/beisci/SleepInfo/blob/master/sleep_in_isolation_fr.md) | [versión en español](https://github.com/beisci/SleepInfo/blob/master/sleep_in_isolation_sp.md) | [גרסה עברית](https://github.com/beisci/SleepInfo/blob/master/sleep_in_isolation_he.md) |** 
+**| [中文版](https://github.com/beisci/SleepInfo/blob/master/sleep_in_isolation_cn.md) | [English version](https://github.com/beisci/SleepInfo/blob/master/sleep_in_isolation.md) | [Version française](https://github.com/beisci/SleepInfo/blob/master/sleep_in_isolation_fr.md) | [versión en español](https://github.com/beisci/SleepInfo/blob/master/sleep_in_isolation_sp.md) | [גרסה עברית](https://github.com/beisci/SleepInfo/raw/master/sleep_in_isolation_he.pdf) |** 
 
 _この情報は、長期間にわたり屋内に留まる必要がある人々のために書かれたものです。寝られる状況になく睡眠不足になっている方々（医療従事者、その補助業務にあたる人、看病をしている人など）は、どうかできる範囲でよいので睡眠や休養を優先してとるようにしてください。_  
 
