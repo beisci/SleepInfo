@@ -1,6 +1,6 @@
 # Consejos para dormir durante el período de cuarentena.
 
-**| [English version](https://github.com/beisci/SleepInfo/blob/master/sleep_in_isolation.md) | [中文版](https://github.com/beisci/SleepInfo/blob/master/sleep_in_isolation_cn.md) | [日本語版](https://github.com/beisci/SleepInfo/blob/master/sleep_in_isolation_jp.md) | [한국어판](https://github.com/beisci/SleepInfo/blob/master/sleep_in_isolation_kr.md) | [Version française](https://github.com/beisci/SleepInfo/blob/master/sleep_in_isolation_fr.md) | [גרסה עברית](https://github.com/beisci/SleepInfo/raw/master/sleep_in_isolation_he.pdf) |**
+**| [English version](https://github.com/beisci/SleepInfo/blob/master/sleep_in_isolation.md) | [中文版](https://github.com/beisci/SleepInfo/blob/master/sleep_in_isolation_cn.md) | [日本語版](https://github.com/beisci/SleepInfo/blob/master/sleep_in_isolation_jp.md) | [한국어판](https://github.com/beisci/SleepInfo/blob/master/sleep_in_isolation_kr.md) | [Version française](https://github.com/beisci/SleepInfo/blob/master/sleep_in_isolation_fr.md) | [Versão em português](https://github.com/beisci/SleepInfo/blob/master/sleep_in_isolation_pt.md) | [גרסה עברית](https://github.com/beisci/SleepInfo/raw/master/sleep_in_isolation_he.pdf) |**
 
 _Esta información está escrita para personas que deben permanecer dentro de casa durante la cuarentena. Si no puede dormir debido a la falta de oportunidades para dormir (por ejemplo, profesionales de la salud de primera línea, trabajadores de apoyo, cuidadores), priorice el sueño y descanse tanto como pueda._
 

@@ -1,6 +1,6 @@
 # 자가격리 기간동안 실내에 머무를 때를 위한 수면 팁
 
-**| [English version](https://github.com/beisci/SleepInfo/blob/master/sleep_in_isolation.md) | [中文版](https://github.com/beisci/SleepInfo/blob/master/sleep_in_isolation_cn.md) | [日本語版](https://github.com/beisci/SleepInfo/blob/master/sleep_in_isolation_jp.md) | [versión en español](https://github.com/beisci/SleepInfo/blob/master/sleep_in_isolation_sp.md) | [Version française](https://github.com/beisci/SleepInfo/blob/master/sleep_in_isolation_fr.md) | [גרסה עברית](https://github.com/beisci/SleepInfo/raw/master/sleep_in_isolation_he.pdf) |**
+**| [English version](https://github.com/beisci/SleepInfo/blob/master/sleep_in_isolation.md) | [中文版](https://github.com/beisci/SleepInfo/blob/master/sleep_in_isolation_cn.md) | [日本語版](https://github.com/beisci/SleepInfo/blob/master/sleep_in_isolation_jp.md) | [versión en español](https://github.com/beisci/SleepInfo/blob/master/sleep_in_isolation_sp.md) | [Version française](https://github.com/beisci/SleepInfo/blob/master/sleep_in_isolation_fr.md) | [Versão em português](https://github.com/beisci/SleepInfo/blob/master/sleep_in_isolation_pt.md) | [גרסה עברית](https://github.com/beisci/SleepInfo/raw/master/sleep_in_isolation_he.pdf) |**
 
 _본 정보는 장기간 실내에 머물러야 하는 사람들을 위한 것입니다. 만약 잠을 잘 기회가 없어 수면이 박탈된 상태라면(예: 일선 의료진, 의료지원 근로자, 간호인력), 가능한 수면과 휴식을 우선 순위로 두십시오._
 
