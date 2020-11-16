@@ -1,3 +1,5 @@
+# Making Transitions in Sleep Patterns: A Practical Guide
+
 The global pandemic has led to many changes in our lives, including changes in sleep. As different parts of the world make transition back to the pre-pandemic, changes to sleep are expected. This guide helps make this transition easier. You can also use this for adjusting to different sleeping schedules in the future (e.g., going back to work after a long break).
 
 _If you struggle with a sleep disorder such as insomnia or body clock disorder, this guide may not work well. Please consult a health professional for your condition._
