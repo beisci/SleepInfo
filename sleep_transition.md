@@ -12,7 +12,7 @@ First, take a moment to review the following:
 
 Now, write down your current bedtime and get up time for a typical day.
 
-If you have mostly followed your body's cues, going to bed when you are sleepy, waking up naturally, feeling alert during the day, then your current sleep patterns serve as a reference point for the future. It tells us what our body's preferred sleep timing is, and how much sleep we need. 
+If you have mostly followed your body's cues, going to bed when you are sleepy, waking up naturally, feeling alert during the day, then your current sleep patterns serve as a reference point for the future. It tells you what your body's preferred sleep timing is, and how much sleep you need. 
 
 If you have been sleeping longer and are feeling good, then remind your future self to protect your sleep time and not trade it for other things - remember how good you feel when you get the sleep you need.
 
@@ -34,10 +34,11 @@ Below are 4 features of a good sleep pattern to work towards. It will take time 
 	- Once you have arrived at your target get-up time, you could continue with the morning bright light and evening dim light as they are helpful in keeping your body clock in place. 
 
 - If your new schedule requires you to stay up past your current bedtime, you need to shift your body clock later by doing the following:
-	- Set your earliest bedtime to be 15 min later than your current bedtime. Stay up until the "wave" of sleepiness is arriving, and that the time is past this later bedtime. Move the earliest bedtime 15 min later each day. 
+	- Set your earliest bedtime to be 15 min later than your current bedtime. Stay up until the "wave" of sleepiness is arriving, and that the time is past this later bedtime. For example, if you previously go to bed on or after 10 pm, make 10:15 pm the new earliest bedtime. Stay up until after 10:15 pm, and when it's after 10:15 pm, AND you are feeling the sleepiness wave is arriving, go to bed. 
+	- Move the earliest bedtime 15 min later each day. 
 	- It is likely that you do not need this step, but if you struggle to stay up, seek bright light in the evening could make this easier. You could seek bright light up until 1 hour before your bedtime, then shift to dim lights to prepare your body for sleep.
 	- As you go to bed later, you will gradually wake up later. If you wake up earlier than you wish to, try to avoid light for the first 2 hours. You could try using low level nightlights around the house, or wear sunglasses to avoid light.
-	- This transition may take several days, and you could adjust your pace faster or slower, or pause for a day or two keep delaying.  
+	- This transition may take several days, and you could adjust your pace faster or slower than the 15 min per day, or pause for a day or two before continue delaying.  
 
 - If there is a large difference between your current and target sleep times, or if you have difficulty with the steps above, it would be a good idea to speak to a health professional. 
 
