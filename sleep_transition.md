@@ -34,7 +34,7 @@ Below are 4 features of a good sleep pattern to work towards. It will take time 
 	- Once you have arrived at your target get-up time, you could continue with the morning bright light and evening dim light as they are helpful in keeping your body clock in place. 
 
 - If your new schedule requires you to stay up past your current bedtime, you need to shift your body clock later by doing the following:
-	- Set your earliest bedtime to be 15 min later than your current bedtime. Stay up until the "wave" of sleepiness is arriving, and that the time is past this later bedtime. For example, if you previously go to bed on or after 10 pm, make 10:15 pm the new earliest bedtime. Stay up until after 10:15 pm, and when it's after 10:15 pm, AND you are feeling the sleepiness wave is arriving, go to bed. 
+	- Set your earliest bedtime to be 15 min later than your current bedtime. Stay up until the "wave" of sleepiness is arriving, and that the time is past this later bedtime. For example, if you currently go to bed on or after 10 pm, make 10:15 pm the new earliest bedtime. Stay up until after 10:15 pm, and when it's after 10:15 pm, AND you are feeling the sleepiness wave is arriving, go to bed. 
 	- Move the earliest bedtime 15 min later each day. 
 	- It is likely that you do not need this step, but if you struggle to stay up, seek bright light in the evening could make this easier. You could seek bright light up until 1 hour before your bedtime, then shift to dim lights to prepare your body for sleep.
 	- As you go to bed later, you will gradually wake up later. If you wake up earlier than you wish to, try to avoid light for the first 2 hours. You could try using low level nightlights around the house, or wear sunglasses to avoid light.
