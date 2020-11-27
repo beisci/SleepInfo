@@ -1,10 +1,10 @@
 # Sleeping tips when staying indoors during isolation period
 
-_**Your part of the world is opening up? Read our [guide on making sleep transitions to the post-COVID world](https://github.com/beisci/SleepInfo/blob/master/sleep_transition.md).**_
-
 **| [中文版](https://github.com/beisci/SleepInfo/blob/master/sleep_in_isolation_cn.md) | [日本語版](https://github.com/beisci/SleepInfo/blob/master/sleep_in_isolation_jp.md) | [한국어판](https://github.com/beisci/SleepInfo/blob/master/sleep_in_isolation_kr.md) | [Version française](https://github.com/beisci/SleepInfo/blob/master/sleep_in_isolation_fr.md) | [versión en español](https://github.com/beisci/SleepInfo/blob/master/sleep_in_isolation_sp.md) | [Versão em português](https://github.com/beisci/SleepInfo/blob/master/sleep_in_isolation_pt.md) | [גרסה עברית](https://github.com/beisci/SleepInfo/raw/master/sleep_in_isolation_he.pdf) |**
 
 _This information is written for people who have to stay indoors for an extended period of time. If you are sleep deprived because of lack of opportunity to sleep (e.g., frontline health professionals, support workers, carers), please prioritize sleep and rest as much as you are able to._ 
+
+_Your part of the world is opening up? Read our [guide on making sleep transitions to the post-COVID world](https://github.com/beisci/SleepInfo/blob/master/sleep_transition.md)._
 
 ## Part 1: Support our body clock and daily rhythms
 Sleep is controlled by biological, social, and environmental time-keepers. These include the light we are exposed to, time-of-the-day when we eat our meals, exercise, interact with others, and many more. When we stay indoors for a long period of time, we lose many of these cues. This can be challenging for a good night’s sleep and regular daily routines. Here are some strategies to support our daily rhythms:
