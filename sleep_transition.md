@@ -25,7 +25,7 @@ Below are 4 features of a good sleep pattern to work towards. It will take time 
 - Set a **target** get-up time. Think ahead and write down what time you are likely to be able to get up **everyday** of the week in your new schedule. 
 - Calculate the difference between this target and your current get-up time. 
 - If your target is earlier than your current get-up time, you will need to shift your body clock earlier by doing the following: 
-	- Seek bright light as soon as you get up in the morning for at least 20 minutes. Try opening curtains and let in direct sunlight; if you don't have access to natural light, turn on bright indoor lights. 
+	- Seek bright light as soon as you get up in the morning for at least 20 minutes (30 - 60 minutes would be great!). Try opening curtains and let in direct sunlight; if you don't have access to natural light, turn on bright indoor lights. 
 	- Avoid light 1 to 2 hours before bedtime. Keep lights dim and block blue light on electronic devices (turn brightness of the screen to the lowest setting, and turn on apps such as [f.lux](https://justgetflux.com/) and Night Shift [[iOS](https://support.apple.com/en-au/HT207570), [Macs](https://support.apple.com/en-au/HT207513)].
 	- Wind down 1 to 2 hours before usual bedtime. Go to bed when you are feeling that “wave” of sleepiness is arriving. For some people this may feel like alertness is lower, eyelids are heavy, thoughts are slowing down. Learn to “surf the waves” of sleepiness, and “catch” it to go to sleep. 
 	- As you do the above, start getting up about 15 minutes earlier than the previous day, so that you progressively move towards your target get-up time. 
