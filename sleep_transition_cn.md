@@ -68,7 +68,7 @@ _如果您本身存在失眠或生物钟失调等睡眠障碍，本指南可能�
 
 ### 4. 确保大多数日子拥有优质的睡眠
 
-请参阅[本指南](https://github.com/beisci/SleepInfo/blob/master/sleep_in_isolation.md)，特别是第2部分，了解健康的睡眠习惯以及晚上睡眠不足的解决方案。
+请参阅[本指南](https://github.com/beisci/SleepInfo/blob/master/sleep_in_isolation_cn.md)，特别是第2部分，了解健康的睡眠习惯以及晚上睡眠不足的解决方案。
 
 另外，对于许多人来说，工作、活动和睡眠之间的界限模糊不清。
 
