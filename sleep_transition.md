@@ -1,5 +1,9 @@
 # Making Transitions in Sleep Patterns: A Practical Guide
 
+
+**| [中文版](https://github.com/beisci/SleepInfo/blob/master/sleep_transition_cn.md) |  [한국어판](https://github.com/beisci/SleepInfo/blob/master/sleep_transition_kr.md) | [Versão em português](https://github.com/beisci/SleepInfo/blob/master/sleep_transition_pt.md) |**
+
+
 The global pandemic has led to many changes in our lives, including changes in sleep. As different parts of the world make transition back to the pre-pandemic, changes to sleep are expected. This guide helps make this transition easier. You can also use this for adjusting to different sleeping schedules in the future (e.g., going back to work after a long break).
 
 _If you struggle with a sleep disorder such as insomnia or body clock disorder, this guide may not work well. Please consult a health professional for your condition._
@@ -57,7 +61,7 @@ It is normal to have some fluctuation in our sleep from day to day. Social jet-l
 Social jet-lag often means that on days when you have commitments, you get less sleep than you need, and sleep at a time that is not well aligned with your body clock. This is why we want to reduce social jet-lag. 
 
 Following steps in #1 above, you could minimise social jet-lag after transition into the new schedule. If you notice that on commitment free days (e.g., weekend), you have to sleep in for more than 30 min, it is a good idea to review your sleep and prevent further increase in social jet-lag. 
-- Are you getting enough sleep on weedays? If not, review #2 above to get enough sleep on most days.
+- Are you getting enough sleep on weekdays? If not, review #2 above to get enough sleep on most days.
 - Has your body clock drifted later, such that you are alert later into the night and struggle to get up in the morning? If so, repeat steps in #1 to to move your body clock earlier. 
 
 ### 4. To have good sleep quality most days
@@ -74,3 +78,5 @@ In addition, for many people, there may have been a blurred boundary between wor
 If sleep problems persist for a while, happening on more days than not, severely interfere with what you do during the day, or you are very concerned or distressed about them, it's a good idea to check with your physician. Most sleep problems respond well to treatments. For example, cognitive behavioural therapy for insomnia is a highly effective non-drug treatment for insomnia, the most common sleep disorder. In Australia, you can see a psychologist for sleep problems through Medicare, speak to your GP about options. For more information about sleep, check out [National Sleep Foundation](https://www.sleepfoundation.org/) and fact sheets from [Sleep Health Foundation](https://www.sleephealthfoundation.org.au/fact-sheets.html). 
 
 _This article is written by Drs Bei Bei, Shantha Rajaratnam, and Sean Drummond from [Monash University Healthy Sleep Clinic](https://www.monash.edu/turner-institute/turner-clinics/healthy-sleep-clinic), [Turner Institute for Brain and Mental Health](https://www.monash.edu/turner-institute), Monash University, Australia. Contribution to this via Github, for example, translation into other languages, is welcome. For questions and comments, please contact bei.bei@monash.edu_
+
+If sleep problems persist for a while, happening on more days than not, severely interfere with what you do during the day, or you are very concerned or distressed about them, it's a good idea to check with your physician. Most sleep problems respond well to treatments. For example, cognitive behavioural therapy for insomnia is a highly effective non-drug treatment for insomnia, the most common sleep disorder. For more information about sleep, check out [National Sleep Foundation](https://www.sleepfoundation.org/) and fact sheets from [Sleep Health Foundation](https://www.sleephealthfoundation.org.au/fact-sheets.html).
