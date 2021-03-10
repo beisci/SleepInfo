@@ -1,5 +1,5 @@
 
-**| [English](https://github.com/beisci/SleepInfo/blob/master/sleep_transition.md) | [中文版](https://github.com/beisci/SleepInfo/blob/master/sleep_transition_cn.md) | [한국어판](https://github.com/beisci/SleepInfo/blob/master/sleep_transition_kr.md) | **
+**| [English](https://github.com/beisci/SleepInfo/blob/master/sleep_transition.md) | [中文版](https://github.com/beisci/SleepInfo/blob/master/sleep_transition_cn.md) | [한국어판](https://github.com/beisci/SleepInfo/blob/master/sleep_transition_kr.md) |**
 
 A pandemia global causou muitas mudanças em nossas vidas, incluindo mudanças no sono. Conforme diferentes partes do mundo fazem a transição de volta à pré-pandemia, mudanças no sono são esperadas. Este guia ajuda a tornar a transição mais fácil. Você também pode usá-lo para se ajustar a diferentes horários de sono no futuro (por exemplo, voltando ao trabalho depois de uma longa pausa). 
 
